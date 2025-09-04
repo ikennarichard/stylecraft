@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "eazyfit_tailor",
-    "slug": "eazyfit_tailor",
+    "name": "stylecraft",
+    "slug": "stylecraft",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "eazyfittailor",
+    "scheme": "stylecraft",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
